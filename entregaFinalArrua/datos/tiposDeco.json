@@ -1,0 +1,22 @@
+{
+  "in": [
+    { "id": 1, "decoSimple": "Decorada con 1 figura de azúcar", "imagen": "images/fotos/infantil/inf_mc.png ", "factor": 1.2 },
+    { "id": 2, "decoSimple": "Decorada con 2 figuras de azúcar y nombre", "imagen": "images/fotos/infantil/inf_med.png ", "factor": 1.3 },
+    { "id": 3, "decoSimple": "Decorada con 2 a 4 figuras de azúcar, nombre y piso falso", "imagen": "images/fotos/infantil/inf_gde.png ", "factor": 1.5 }
+  ],
+  "ad": [
+    { "id": 1, "decoSimple": "Decorada con 1 figura de azúcar", "imagen": "images/fotos/adultos/ad_mc.png ", "factor": 1.2 },
+    { "id": 2, "decoSimple": "Decorada con 2/3 figuras de azúcar y nombre", "imagen": "images/fotos/adultos/ad_med.png", "factor": 1.3 },
+    { "id": 3, "decoSimple": "Decorada con 2 a 4 figuras de azúcar, nombre y piso falso", "imagen": "images/fotos/adultos/ad_gde.png", "factor": 1.5 }
+  ],
+  "cm": [
+    { "id": 1, "decoSimple": "Decorada con 1 figura de azúcar", "imagen": "images/fotos/comunion/com_mc.png", "factor": 1.2 },
+    { "id": 2, "decoSimple": "Decorada con 2/3 figuras de azúcar y nombre", "imagen": "images/fotos/comunion/com_med.png", "factor": 1.3 },
+    { "id": 3, "decoSimple": "Decorada con 2 a 4 figuras de azúcar, nombre y piso falso", "imagen": "images/fotos/comunion/com_gde.png", "factor": 1.5 }
+  ],
+  "ba": [
+    { "id": 1, "decoSimple": "Decorada con 1 figura de azúcar", "imagen": "images/fotos/bautismo/bau_mc.png", "factor": 1.2 },
+    { "id": 2, "decoSimple": "Decorada con 2/3 figuras de azúcar y nombre", "imagen": "images/fotos/bautismo/bau_md.png", "factor": 1.3 },
+    { "id": 3, "decoSimple": "Decorada con 2 a 4 figuras de azúcar, nombre y piso falso", "imagen": "images/fotos/bautismo/bau_gde.png", "factor": 1.5 }
+  ]
+}

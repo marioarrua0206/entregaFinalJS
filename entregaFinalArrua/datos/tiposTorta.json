@@ -1,0 +1,6 @@
+[
+  { "id": 10, "nombre": "TORTA CHICA", "precioPorcion": 150 },
+  { "id": 18, "nombre": "TORTA MEDIANA", "precioPorcion": 130 },
+  { "id": 24, "nombre": "TORTA GRANDE", "precioPorcion": 110 },
+  { "id": 32, "nombre": "TORTA ESPECIAL", "precioPorcion": 100 }
+]

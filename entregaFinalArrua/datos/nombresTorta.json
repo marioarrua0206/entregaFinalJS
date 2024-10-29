@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Infantil", "imagen": "images/infantil.png", "tipo": "TORTA DECO INFANTIL", "base": "Torta básica" },
+  { "id": 2, "nombre": "Adultos", "imagen": "images/adultos.png", "tipo": "TORTA DECO ADULTOS", "base": "Torta básica" },
+  { "id": 3, "nombre": "Comunión", "imagen": "images/comunion.png", "tipo": "TORTA DECO COMUNIÓN", "base": "Torta básica" },
+  { "id": 4, "nombre": "Bautismo", "imagen": "images/bautismo.png", "tipo": "TORTA DECO BAUTISMO", "base": "Torta básica" }
+]
